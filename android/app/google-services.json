@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34311179316",
+    "project_id": "cafefind-76bb4",
+    "storage_bucket": "cafefind-76bb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34311179316:android:f55f43acf6cb52d0238e61",
+        "android_client_info": {
+          "package_name": "com.example.cafefind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv-72Moz_hkys7l1AfIIwNNXz_dgA3sK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
